@@ -1,6 +1,6 @@
 # Lighting
 ## Supporting documentation
-Studied in the project:
+Used in the project:
 * Sky
 * Sources of light
 * Project Settings
